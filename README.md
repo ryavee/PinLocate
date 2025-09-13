@@ -16,14 +16,15 @@ PinLocate is a React-based address form that dynamically fetches and populates c
 
 ### Installation and Setup
 
-1. **Navigate to the project folder:**
-   cd pinlocate
+```bash
+# Navigate to the project folder
+cd pinlocate
 
-2. **Install dependencies:**
-   npm install
+# Install dependencies
+npm install
 
+# Start the development server
+npm start
 
-3. **Start the development server:**
-    npm start
 
 
