@@ -29,7 +29,10 @@ PinLocate is a lightweight, responsive React web application that automatically 
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="420" alt="PinLocate Interface" src="https://github.com/user-attachments/assets/f508d733-bd2b-43ae-bdb2-03314d96ba23" />
+  <img width="420" height="720" alt="pinLocate Interface" src="https://github.com/user-attachments/assets/0bdebd8d-4aa5-405c-86f3-b27309d638b8" />
+  <span />
+  <img width="420" height="720" alt="pin-locate vercel app_ (1)" src="https://github.com/user-attachments/assets/da0bcc92-4e91-4ecd-8c9f-471c332bb96b" />
+
 </p>
 
 ---
