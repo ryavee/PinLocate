@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <linearGradient id="pinGrad" x1="2" y1="2" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <!-- Background Badge -->
+  <rect width="32" height="32" rx="8" fill="url(#pinGrad)"/>
+  <!-- Location Pin -->
+  <path d="M16 6C12.134 6 9 9.134 9 13C9 17.8 14.8 24.2 15.3 24.8C15.7 25.2 16.3 25.2 16.7 24.8C17.2 24.2 23 17.8 23 13C23 9.134 19.866 6 16 6ZM16 15.5C14.619 15.5 13.5 14.381 13.5 13C13.5 11.619 14.619 10.5 16 10.5C17.381 10.5 18.5 11.619 18.5 13C18.5 14.381 17.381 15.5 16 15.5Z" fill="#ffffff"/>
+  <circle cx="16" cy="13" r="1.5" fill="#4f46e5"/>
+</svg>
