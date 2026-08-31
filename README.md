@@ -180,7 +180,7 @@ Contributions, feedback, and suggestions are welcome!
 
 ## 📄 License
 
-No license file is currently included in this repository.
+This project is [MIT licensed](LICENSE).
 
 ---
 
